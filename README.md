@@ -1,5 +1,1 @@
-<<<<<<< HEAD
-# workDayScheduler
-=======
-# Work Day Scheduler Starter Code
->>>>>>> 1041ed8 (Final commit)
+in This project i used javascript to make a work day scheduler> with my website you can schdeule your day plus change it if you have too. You can save your changes and put the request ina desired time slot.
